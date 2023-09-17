@@ -12,7 +12,7 @@
 
 ## COUNTRY AND INDUSTRY FOR STUDY
 
-4.	The selected industries were chosen as they each have their unique characteristics ( **bold** in Table 1). Within each industry, the polarities, positive and negative, were provided to guide the selection of websites  so that to provide contrast for deeper analysis. 
+4.	The selected industries were chosen as they each have their own unique characteristics ( **bold** in Table 1). Within each industry, the polarities, positive and negative, were provided to guide the selection of websites  so that to provide contrast for deeper analysis. 
 
 
 S/N | Industry | Characteristic |  Polarity (+ve)   |   Polarity (–ve) 
