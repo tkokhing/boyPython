@@ -24,4 +24,4 @@ S/N | Industry | Characteristic |  Polarity (+ve)   |   Polarity (–ve)
 
 > Table 1: Characteristics for Industries Selection.
 
-## For visualization and results, refer to PDF
+## For visualization and results, refer to the [PDF](https://github.com/tkokhing/boyPython/blob/main/ssL_grader%2B/SSL_Grader__tkokhing.pdf)
