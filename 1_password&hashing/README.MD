@@ -1,7 +1,7 @@
 # Hashing and Password Breaking Competition
 Compete password breaking, in the shortest time with combination of various tactics. BF, rainbow, dictionary attack using hashcat
 
-## Bruteforce Vs Dictionary Attack
+## Bruteforce Vs Dictionary Attack Vs Rainbow table
 a)	Dictionary Attack.   Based on the provided Dictionary.txt, 6 out of 15 MD5 digests were found in 1.04 sec.
 
 b)	Bruteforce Attack.   My python scripted was written such that it filtered out those hashes that were not cracked by dictionary attack to be sent for bruteforce attack., i.e. on the remaining 9 hashes, as there is no meaning to re-run those hashes that were already crack via dictionary attack. This also saves that computation time. 4 more MD5 digests  were found in 27.80 sec.
