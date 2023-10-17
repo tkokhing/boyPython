@@ -9,3 +9,5 @@ b)	**_Bruteforce Attack_**.   My python scripted was written such that it filter
 c)	**_Rainbow Table_**.   The used of Rainbow Table was explored with 6 settings, with chain length as 3800 but with the chain number varying from 80K to 1260K. This was to produce a ratio from 5 to 80 when compared with the number of combinations (365 ~= 60M, for 5-character space) that bruteforce could generate. 
   
 d)	From the ratio of 20 and onwards, all 15 passwords (blue box)) were cracked in 12.68 sec being the fastest. Consequently, a longer time was also required to generate the respective rainbow tables based on the different settings.
+
+## Analysis is [here](https://github.com/tkokhing/boyPython/blob/main/1_password%26hashing/l_hash%26pw_s.pdf)
