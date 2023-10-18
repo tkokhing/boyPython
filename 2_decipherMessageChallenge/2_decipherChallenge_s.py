@@ -408,9 +408,9 @@ def resolveotpChallenge():
     # TODO: Add a solution here (conversion from hex to ascii will reveal that the result is in a human readable format)
     a = data['challenge'][2:]
 
-    pText = 'Student ID 1000000 gets 0 points'
+    pText = 'Student ID 1000 gets 0 points'
 
-    evilText = 'Student ID 1006592 gets 6 points'
+    evilText = 'Student ID 1001 gets 6 points'
 
     # cTextHex = '0x161d0c56130b17493e2145625800514555596b52140116457942115d2c0b071b' # # 32 Bytes
 
